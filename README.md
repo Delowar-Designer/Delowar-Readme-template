@@ -123,7 +123,8 @@ https://www.linkedin.com/in/delowar-designer/
 ### image sytax
 <!--![alt text](./images/Delowar.jpg)-->
 ✅✅✅✅✅✅✅✅✅✅  
-❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️  
+
 <img src="./images/Delowar.jpg" width="200" title="Profile image"/>
 
 ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
@@ -138,8 +139,24 @@ https://www.linkedin.com/in/delowar-designer/
 | Delowr | delowar.designr@gmail.com  
 | Mitu | mitu@gmail.com  
 | Joti | joti@gmail.com  
+| Yafta | yafta@gmail.com    
+      
+<br/>  
+
+# Welcome Delowr Hossan  
+<br/>
+
+[Email][Delowar] 
+[Facebook][facebooklink]
+[Linkedin][websitelink]
+[Websitelink][websitelink]
 
 
 <!-- all link is here -->
 [websitelink]: https://www.linkedin.com/in/delowar-designer/  
 [facebooklink]: https://www.facebook.com/delowar.designer?locale=br_FRr/
+[Delowar]: delowar.designer@gmail.com
+
+
+ 
+<img src="./images/Love.jpg" width="10000" title="Love Designe"/>
