@@ -184,7 +184,7 @@ https://www.linkedin.com/in/delowar-designer/
 ✅✅✅✅✅✅✅✅✅✅  
 ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️  
 
-<img src="./images/Delowar.jpg" width="200" title="Profile image"/>
+<img src="./images/Delowar.jpg" width="3000" title="Profile image"/>
 
 ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
 ✅✅✅✅✅✅✅✅✅✅✅
@@ -220,3 +220,16 @@ https://www.linkedin.com/in/delowar-designer/
 [Facebook][facebooklink]
 [Linkedin][websitelink]
 [Websitelink][websitelink]
+
+
+
+
+### image sytax
+<!--![alt text](./images/Delowar.jpg)-->
+✅✅✅✅✅✅✅✅✅✅ ✅✅✅✅✅✅✅✅✅ 
+❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️  
+<img src="./images/PhotoFunia Delowar.jpg" width="" title="Profile image"/>
+❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
+
+<br/>
