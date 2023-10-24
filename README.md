@@ -202,6 +202,17 @@ https://www.linkedin.com/in/delowar-designer/
       
 <br/>  
 
+### 3 Table sytax
+
+| Name | Email |  
+| ---- | --------|  
+| Delowr | delowar.designr@gmail.com  
+| Mitu | mitu@gmail.com  
+| Joti | joti@gmail.com  
+| Yafta | yafta@gmail.com    
+      
+<br/>  
+
 # Welcome Delowr Hossan  
 <br/>
 
